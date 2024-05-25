@@ -1,0 +1,25 @@
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.Form1.resources
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.GenerateResource.cache
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.exe.config
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.exe
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.pdb
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.Properties.Resources.resources
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.CoreCompileInputs.cache
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.exe
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.pdb
+D:\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csprojAssemblyReference.cache
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.exe.config
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.exe
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.pdb
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csprojAssemblyReference.cache
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.Form1.resources
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.Properties.Resources.resources
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.GenerateResource.cache
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.CoreCompileInputs.cache
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.exe
+C:\M2O\Testing\CustomDialog\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.pdb
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.AssemblyReference.cache
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.Form1.resources
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.GenerateResource.cache
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.exe
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.pdb
