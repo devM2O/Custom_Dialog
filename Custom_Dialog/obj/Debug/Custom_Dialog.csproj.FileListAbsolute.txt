@@ -23,3 +23,8 @@ D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.F
 D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.GenerateResource.cache
 D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.exe
 D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.pdb
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.exe.config
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.exe
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\bin\Debug\Custom_Dialog.pdb
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.Properties.Resources.resources
+D:\MMO DATA\MMO's Projects\Custom_Dialog\Custom_Dialog\obj\Debug\Custom_Dialog.csproj.CoreCompileInputs.cache

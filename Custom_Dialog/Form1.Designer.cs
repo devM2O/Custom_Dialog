@@ -161,9 +161,9 @@
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(97, 96);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(245, 20);
+            this.label6.Size = new System.Drawing.Size(254, 20);
             this.label6.TabIndex = 7;
-            this.label6.Text = "Do You Want To Save Change?";
+            this.label6.Text = "Do You Want To Save Changes?";
             // 
             // Form1
             // 
