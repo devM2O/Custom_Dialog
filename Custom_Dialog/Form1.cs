@@ -47,6 +47,7 @@ namespace Custom_Dialog
             this.Close();
         }
 
+        //comment from hah
         private void label2_Enter(object sender, EventArgs e)
         {
             label2.BackColor= System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(43)))), ((int)(((byte)(28)))));
