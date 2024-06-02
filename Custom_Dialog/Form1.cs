@@ -84,7 +84,7 @@ namespace Custom_Dialog
 
         private void button1_MouseDown(object sender, MouseEventArgs e)
         {
-            MessageBox.Show("Confirm");
+            MessageBox.Show("CONFIRM");
         }
 
         private void button2_MouseDown(object sender, MouseEventArgs e)
