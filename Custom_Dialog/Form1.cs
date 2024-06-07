@@ -90,7 +90,7 @@ namespace Custom_Dialog
 
         private void button2_MouseDown(object sender, MouseEventArgs e)
         {
-            MessageBox.Show("Confirm & Close!");
+            MessageBox.Show("Confirm & Close!!");
             this.Close();
         }
 
