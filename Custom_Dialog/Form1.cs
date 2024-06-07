@@ -102,7 +102,7 @@ namespace Custom_Dialog
             }
             if (Control.ModifierKeys == Keys.Shift && e.KeyCode == Keys.F5)
             {
-                MessageBox.Show("Shift + F5 Press");
+                MessageBox.Show("Shift + F5 Press !");
             }
         }
 
